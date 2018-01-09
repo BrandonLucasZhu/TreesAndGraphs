@@ -38,7 +38,8 @@ def bfs (graph, start, end):
 			else:
 				todo.append([next_node, path + [next_node]])
 
-
+def bi_directional_search ():
+	
 
 if __name__ == "__main__": 
 
